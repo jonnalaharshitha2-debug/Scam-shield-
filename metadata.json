@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "Smart cyber fraud detection system for suspicious messages, phishing URLs, and deceptive QR codes using AI and NLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
